@@ -1,0 +1,7 @@
+Connect (with authorization if needed, ability to securely save credentials for later use) to multiple data sources – Amazon S3, MS SQL, CSV, Excel, Cassandra, JSON etc.
+Display available data (tables, files, etc.)
+Preview the data (transform if needed for preview, i.e. JSON to Table)
+Select/create destination (with authorization if needed)
+Customize the transformation (i.e. JSON to CSV with custom row and column separators)
+Move transformed data to destination and validate correctness of migration.
+Should have a nice UI in any form – web, windows forms, AIR – the choice is yours
